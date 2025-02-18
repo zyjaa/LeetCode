@@ -28,6 +28,8 @@ Output: [8,9,9,9,0,0,0,1]
 
 
 
+### 法一：链表模拟
+
 ```cpp
 /**
  * Definition for singly-linked list.
