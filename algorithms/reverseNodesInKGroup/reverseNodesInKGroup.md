@@ -26,8 +26,6 @@
 
 ### 法一：模拟（分组）
 
-
-
 ```cpp
 /**
  * Definition for singly-linked list.
