@@ -1,4 +1,4 @@
 @echo off
 git add .
-git commit -m "2595"
+git commit -m "51-52"
 git push
