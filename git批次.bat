@@ -1,7 +1,7 @@
 @chcp 65001 > nul
 @echo off
 git add .
-git commit -m "312"
+git commit -m "311"
 git push
 
 
